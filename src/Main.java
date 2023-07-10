@@ -8,6 +8,13 @@ public class Main {
         Omnax.Planets="2";
         Omnax.Star="4";
 
+        FeatureSun Xeon=new FeatureSun();
+        Xeon.Name="treo";
+        Xeon.size="32432km";
+        Xeon.temp="-34449843 celsius";
+
+
+
 
 
     }
